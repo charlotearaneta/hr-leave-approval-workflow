@@ -1,1 +1,13 @@
+{
+  "employee_name": "James Walker",
+  "employee_email": "james.walker@email.com",
+  "employee_department": "IT",
+  "manager_name": "Sarah Lee",
+  "leave_type": "Annual Leave",
+  "start_date": "2026-02-10",
+  "end_date": "2026-02-12",
+  "reason": "Family commitment",
+  "notes": "I will hand over urgent tasks before leave.",
+  "status": "Pending"
+}
 
