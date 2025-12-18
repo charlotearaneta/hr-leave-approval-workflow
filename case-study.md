@@ -123,7 +123,7 @@ Building this system reinforced several lessons:
 ---
 
 
-## 📬� Contact
+## 📬 Contact
 👩‍💻 Created by: **Charlote Araneta**
 
 🔗 LinkedIn: https://www.linkedin.com/in/charlotearaneta
