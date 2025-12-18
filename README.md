@@ -17,10 +17,29 @@ This project demonstrates how HR processes can be converted into scalable automa
 pip install -r requirements.txt
 
 ```
+3. Create .env from .env.example and add:
+
+```env
+
+CLICKUP_API_TOKEN=your_clickup_token
+CLICKUP_LIST_ID=your_clickup_list_id
+
+```
+
+4. Run
+
+```bash
+
+python src/main.py --request data/leave_request.sample.json
+
+
+```
+
+✅ The script creates a ClickUp task and saves a run log in results/.
 
 ---
 
-🗺 Roadmap
+## 🗺 Roadmap
 
 Phase 1: MVP leave request routing ✅
 
