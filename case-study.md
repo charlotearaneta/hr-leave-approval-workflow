@@ -115,7 +115,7 @@ Managers retain control over decisions while benefiting from automation support.
 Building this system reinforced several lessons:
 
 - ✔ Translating HR processes into executable workflows requires clear business logic  
-- ✔ Automation is most effective when it supports—not replaces—human decision-making  
+- ✔ Automation is most effective when it supports not replaces human decision-making  
 - ✔ API-driven systems enable scalable HR operations  
 - ✔ Structured data improves reliability and auditability  
 - ✔ Small automations can create meaningful operational impact  
