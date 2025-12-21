@@ -1,5 +1,5 @@
 # 🧩 Case Study: HR Leave Approval Workflow 
-*A Human-Centered HR Tech Automation for Efficient and Accountable Leave Management*
+### *HR Tech Automation for Efficient and Accountable Leave Management*
 
 This case study focuses on the design and development of an **Employee Onboarding Automation System** aimed at improving onboarding workflows and task management for new employees. Built at the intersection of HR expertise, Python automation, and workflow APIs, the system automates core onboarding activities, including the creation of onboarding tasks, assignment of training resources, delivery of welcome communications, and scheduling of probation-related reminders.
 
