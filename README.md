@@ -160,8 +160,6 @@ python src/main.py --request data/leave_request.sample.json
 This project runs locally using authenticated API connections.
 Sample outputs and execution logs are stored in the results/ folder.
 
-Screenshots or demo walkthroughs may be added in future versions.
-
 ---
 
 
@@ -204,7 +202,7 @@ This project serves as a foundation for a broader HR operations automation platf
 - Integration with HRIS and ATS systems  
 - End-to-end employee lifecycle automation  
 
-The long-term goal is to empower HR teams to focus on people—not paperwork.
+The long-term goal is to empower HR teams to focus on people not paperwork.
 
 ---
 
