@@ -1,6 +1,6 @@
 # ✅ HR Leave Approval Workflow 
 
-*HR leave request and approval automation using Python and ClickUp*
+### *HR leave request and approval automation using Python and ClickUp*
 
 
 The **HR Leave Approval Workflow** is a Python-based HR Tech automation project that streamlines employee leave requests and approval processes by converting structured leave data into actionable approval tasks in ClickUp.
